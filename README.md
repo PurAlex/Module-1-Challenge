@@ -6,11 +6,11 @@ This project was created to improve the **accesibility** of the website, so it i
 
 The current code contains:
 
--Semantic HTML
--HTML follows a logical structure
--All the images contain alt attributes
--Headings attributes are in sequential order
--Title elements contain a descriptive title.
+*Semantic HTML
+*HTML follows a logical structure
+*All the images contain alt attributes
+*Headings attributes are in sequential order
+*Title elements contain a descriptive title.
 
 ## Installation
 
