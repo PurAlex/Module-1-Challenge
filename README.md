@@ -11,6 +11,7 @@ This is what I refactored of the existing code.
 * All the images contain **alt** attributes.
 * Headings attributes are in sequential order.
 * Title elements contain a descriptive title.
+* Comments to every tag of the code in HTML and CSS.
 
 ## Installation
 
@@ -26,7 +27,7 @@ N/A
 
 ## Features
 
-HTML and CSS was used to develop the website.
+HTML and CSS were used to develop the website.
 ## Contributing
 
 N/A
