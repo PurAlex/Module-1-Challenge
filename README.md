@@ -13,6 +13,24 @@ This is what I refactored of the existing code.
 * Title elements contain a descriptive title.
 * Comments to every tag of the code in HTML and CSS.
 
+## Screenshots
+
+The following screenshots are of the HTML and CSS code showing the reafactored code.
+
+![Screenshot of HTML](./assets/screenshots/screenshot-html-1.jpg)
+
+![Screenshot of HTML](./assets/screenshots/screenshot-html-2.jpg)
+
+![Screenshot of CSS](./assets/screenshots/screenshot-css-1.jpg)
+
+![Screenshot of CSS](./assets/screenshots/screenshot-css-2.jpg)
+
+![Screenshot of CSS](./assets/screenshots/screenshot-css-3.jpg)
+
+![Screenshot of CSS](./assets/screenshots/screenshot-css-4.jpg)
+
+![Screenshot of CSS](./assets/screenshots/screenshot-css-5.jpg)
+
 ## Installation
 
 N/A
