@@ -15,7 +15,7 @@ This is what I refactored of the existing code.
 
 ## Screenshots
 
-The following screenshots are of the HTML and CSS code showing the reafactored code.
+The following screenshots are of the HTML and CSS code showing the refactored code.
 
 ![Screenshot of HTML](./assets/screenshots/screenshot-html-1.jpg)
 
